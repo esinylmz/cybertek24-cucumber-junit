@@ -1,0 +1,110 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-01-09T23:38:58.950Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.cybertek.step_definitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "User search title verification",
+        "description": "",
+        "id": "google-search-functionality;user-search-title-verification",
+        "after": [
+          {
+            "result": {
+              "duration": 604000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.cybertek.step_definitions.Hooks.tearDownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2142000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User is on Google home page",
+            "match": {
+              "location": "com.cybertek.step_definitions.Google_StepDefinitions.user_is_on_google_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1689000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User searches for apple",
+            "match": {
+              "location": "com.cybertek.step_definitions.Google_StepDefinitions.user_searches_for_apple()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User should see apple in the title",
+            "match": {
+              "location": "com.cybertek.step_definitions.Google_StepDefinitions.user_should_see_apple_in_the_title()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@googleSearch"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Google search functionality",
+    "description": "  Agile Story: As a user, when I am on the google\n  search page, I should be able to search whatever\n  I want, and see relevant information",
+    "id": "google-search-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/goggleSearch.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@googleSearch",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 12
+        }
+      }
+    ]
+  }
+]

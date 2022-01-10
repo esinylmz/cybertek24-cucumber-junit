@@ -1,0 +1,4 @@
+# Created at 2022-01-02T17:02:01.961
+Boot Manifest-JAR contains absolute paths in classpath 'D:\DOCUMENTS\CYBERTEK\SELENIUM\cybertek24-cucumber-junit\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
