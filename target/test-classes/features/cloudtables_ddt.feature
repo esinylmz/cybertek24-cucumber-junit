@@ -1,6 +1,8 @@
 @cloudtables
-Feature: DDT example with Cloudtables
 
+@smoke
+Feature: DDT example with Cloudtables
+  @regression
   Scenario Outline: Adding multiple users to the table
     Given User is on cloudtables homepage
     When User clicks on New button

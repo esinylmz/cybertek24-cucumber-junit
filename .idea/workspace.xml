@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6acb9be-cdcd-4c53-b1fe-0acf30b5b74d" name="Changes" comment="update">
+    <list default="true" id="b6acb9be-cdcd-4c53-b1fe-0acf30b5b74d" name="Changes" comment="update 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/cloudtables_ddt.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/cloudtables_ddt.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/goggleSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/goggleSearch.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/google_multiple_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/google_multiple_search.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/google_scenario_outline.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/google_scenario_outline.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/lyft_fare_estimate.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/lyft_fare_estimate.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/DiceJobSearchStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/DiceJobSearchStepDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/ calculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/ calculator.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/ etsySearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/ etsySearch.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/cloudtables_ddt.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/cloudtables_ddt.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/dice_iobsearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/dice_iobsearch.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/goggleSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/goggleSearch.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/google_multiple_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/google_multiple_search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/google_scenario_outline.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/google_scenario_outline.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/lyft_fare_estimate.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/lyft_fare_estimate.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/percentage_calculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/percentage_calculator.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/rerun_demo.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/rerun_demo.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +59,65 @@
       <recent name="C:\Users\Theodor\JavaProgramming_B24\cybertek24-cucumber-junit" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CukesRunner">
+  <component name="RunManager" selected="Cucumber Java.Scenario: User searches for a job">
+    <configuration name="Feature:  calculator" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" />
+      <option name="GLUE" value="com.cybertek.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cybertek24-cucumber-junit" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature:  calculator" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: dice_iobsearch" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/dice_iobsearch.feature" />
+      <option name="GLUE" value="com.cybertek.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cybertek24-cucumber-junit" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: dice_iobsearch" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User searches for a job" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/dice_iobsearch.feature" />
+      <option name="GLUE" value="com.cybertek.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cybertek24-cucumber-junit" />
+      <option name="NAME_FILTER" value="^User searches for a job$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User searches for a job$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User searches for a job" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cybertek24-cucumber-junit" />
       <extension name="coverage">
@@ -65,22 +129,6 @@
       <option name="PACKAGE_NAME" value="com.cybertek.runners" />
       <option name="MAIN_CLASS_NAME" value="com.cybertek.runners.CukesRunner" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExcelReadActions.readExcelSheetData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cybertek24-cucumber-junit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ExcelReadActions" />
-      <option name="METHOD_NAME" value="readExcelSheetData" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,44 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VytrackLoginDDTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cybertek24-cucumber-junit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.VytrackLoginDDTTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VytrackLoginDDTTest.loginDDTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cybertek24-cucumber-junit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.VytrackLoginDDTTest" />
-      <option name="METHOD_NAME" value="loginDDTTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: User searches for a job" />
+        <item itemvalue="Cucumber Java.Feature:  calculator" />
+        <item itemvalue="Cucumber Java.Feature: dice_iobsearch" />
         <item itemvalue="JUnit.CukesRunner" />
         <item itemvalue="JUnit.VyTrackLogin" />
-        <item itemvalue="JUnit.VytrackLoginDDTTest.loginDDTTest" />
-        <item itemvalue="JUnit.VytrackLoginDDTTest" />
-        <item itemvalue="JUnit.ExcelReadActions.readExcelSheetData" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +210,8 @@
       <workItem from="1641693616359" duration="24000" />
       <workItem from="1641761498678" duration="2936000" />
       <workItem from="1641772435580" duration="231000" />
-      <workItem from="1641776520946" duration="4583000" />
+      <workItem from="1641776520946" duration="6422000" />
+      <workItem from="1641790176411" duration="727000" />
     </task>
     <task id="LOCAL-00001" summary="CukesRunner">
       <created>1641771900223</created>
@@ -230,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641780127283</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update 1">
+      <created>1641781850553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641781850553</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +276,7 @@
     <MESSAGE value="CukesRunner" />
     <MESSAGE value="All" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 1" />
   </component>
 </project>
