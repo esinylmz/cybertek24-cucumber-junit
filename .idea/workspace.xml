@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6acb9be-cdcd-4c53-b1fe-0acf30b5b74d" name="Changes" comment="update 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/DiceJobSearchStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/DiceJobSearchStepDefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/ calculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/ calculator.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/ etsySearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/ etsySearch.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/cloudtables_ddt.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/cloudtables_ddt.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/dice_iobsearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/dice_iobsearch.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/goggleSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/goggleSearch.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/google_multiple_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/google_multiple_search.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/google_scenario_outline.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/google_scenario_outline.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/lyft_fare_estimate.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/lyft_fare_estimate.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/percentage_calculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/percentage_calculator.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/rerun_demo.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/rerun_demo.feature" afterDir="false" />
+    <list default="true" id="b6acb9be-cdcd-4c53-b1fe-0acf30b5b74d" name="Changes" comment="FIX DICE STEP DEFINITIONS">
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/cloudtables_ddt.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/cloudtables_ddt.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/DiceJobSearchStepDefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/DiceJobSearchStepDefs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +201,7 @@
       <workItem from="1641761498678" duration="2936000" />
       <workItem from="1641772435580" duration="231000" />
       <workItem from="1641776520946" duration="6422000" />
-      <workItem from="1641790176411" duration="727000" />
+      <workItem from="1641790176411" duration="1409000" />
     </task>
     <task id="LOCAL-00001" summary="CukesRunner">
       <created>1641771900223</created>
@@ -255,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641781850553</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="FIX DICE STEP DEFINITIONS">
+      <created>1641790953116</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641790953116</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +274,7 @@
     <MESSAGE value="All" />
     <MESSAGE value="update" />
     <MESSAGE value="update 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 1" />
+    <MESSAGE value="FIX DICE STEP DEFINITIONS" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX DICE STEP DEFINITIONS" />
   </component>
 </project>
