@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6acb9be-cdcd-4c53-b1fe-0acf30b5b74d" name="Changes" comment="All">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/runners/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ etsySearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ etsySearch.feature" afterDir="false" />
+    <list default="true" id="b6acb9be-cdcd-4c53-b1fe-0acf30b5b74d" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/cloudtables_ddt.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/cloudtables_ddt.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/goggleSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/goggleSearch.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/google_multiple_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/google_multiple_search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/google_scenario_outline.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/google_scenario_outline.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/lyft_fare_estimate.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/lyft_fare_estimate.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +193,7 @@
       <workItem from="1641693616359" duration="24000" />
       <workItem from="1641761498678" duration="2936000" />
       <workItem from="1641772435580" duration="231000" />
-      <workItem from="1641776520946" duration="3190000" />
+      <workItem from="1641776520946" duration="4583000" />
     </task>
     <task id="LOCAL-00001" summary="CukesRunner">
       <created>1641771900223</created>
@@ -218,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641779306350</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1641780127283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641780127283</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +250,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CukesRunner" />
     <MESSAGE value="All" />
-    <option name="LAST_COMMIT_MESSAGE" value="All" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

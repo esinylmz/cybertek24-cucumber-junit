@@ -1,11 +1,11 @@
-@regression
+
 @smoke
 @calculator
 Feature: Calculator Tests
 
   Background:
     Given User is on calculator page
-
+  @regression
   Scenario: Adding
     Given User clicks on "5" on calculator
     And User clicks on "+" on calculator
