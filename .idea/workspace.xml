@@ -5,174 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6acb9be-cdcd-4c53-b1fe-0acf30b5b74d" name="Changes" comment="All">
-      <change afterPath="$PROJECT_DIR$/ target/rerun.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Employees.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VyTrackQa2Users.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/CalculatorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/CloudTablesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/EtsyAllCategoriesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/EtsyHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/GoogleSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LyftFareEstimatePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/PercentageCalculatorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/VyTrackPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/runners/FailedTestsRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/CalculatorStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/CloudTablesStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/DiceJobSearchStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/EtsySearchStepsDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/Google_StepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/LyftEstimateStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/PercentageCalculatorStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/ReRunDemoStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Excel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExcelRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExcelReadActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExcelWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/LibraryList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VyTrackLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VytrackLoginDDTTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/WebDriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ etsySearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/cloudtables_ddt.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/dice_iobsearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/goggleSearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/google_multiple_search.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/google_scenario_outline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/lyft_fare_estimate.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/percentage_calculator.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/rerun_demo.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/css/cucumber.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-613257834.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1484051589.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_653213745.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/jquery.tablesorter.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-failures.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-features.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-steps.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_1_1888575507.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_2_3785337442.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_3_1651609671.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_4092259512.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_4_2912691844.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_5_4216562156.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_6_752176428.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_7_2359783216.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_8_3348511770.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_9_1194999941.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_1123903384.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_1221736601.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_1339268100.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_1872899704.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_1968184129.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2209672166.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2209713044.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2209925978.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_233058432.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2700673408.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_4088152887.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_4089311534.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cybertek24-cucumber-junit-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/rerun.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2022-01-02T17-01-59_814.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Calculate 5% multiple values.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Calculator Tests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/DDT example with Cloudtables.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Data driven testing using Scenario outline with Examples table.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Dice job search85.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Google search functionality.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Passing multiple parameters to the step.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Rerunning failed scenarios.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Searching Lyft fare details.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Calculate 5% multiple values.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Calculator Tests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-DDT example with Cloudtables.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Data driven testing using Scenario outline with Examples table.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Dice job search85.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Google search functionality.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Passing multiple parameters to the step.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Rerunning failed scenarios.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Searching Lyft fare details.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-User etsy search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/User etsy search.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CalculatorPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/CloudTablesPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/EtsyAllCategoriesPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/EtsyHomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/GoogleSearchPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LyftFareEstimatePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/PercentageCalculatorPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/VyTrackPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/FailedTestsRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/CalculatorStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/CloudTablesStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/DiceJobSearchStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/EtsySearchStepsDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/Google_StepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/Hooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/LyftEstimateStepDef.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/PercentageCalculatorStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/ReRunDemoStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/ExcelRead.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/ExcelReadActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/ExcelWrite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/VyTrackLogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/VytrackLoginDDTTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/ConfigurationReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/ calculator.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/ etsySearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/cloudtables_ddt.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/dice_iobsearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/goggleSearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/google_multiple_search.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/google_scenario_outline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/lyft_fare_estimate.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/percentage_calculator.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/rerun_demo.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ calculator.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/cloudtables_ddt.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/cloudtables_ddt.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/dice_iobsearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/dice_iobsearch.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/google_multiple_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/google_multiple_search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/google_scenario_outline.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/google_scenario_outline.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/lyft_fare_estimate.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/lyft_fare_estimate.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/percentage_calculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/percentage_calculator.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/rerun_demo.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/rerun_demo.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,7 +195,7 @@
       <workItem from="1641693616359" duration="24000" />
       <workItem from="1641761498678" duration="2936000" />
       <workItem from="1641772435580" duration="231000" />
-      <workItem from="1641776520946" duration="1073000" />
+      <workItem from="1641776520946" duration="2501000" />
     </task>
     <task id="LOCAL-00001" summary="CukesRunner">
       <created>1641771900223</created>
@@ -370,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641771921319</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="All">
+      <created>1641777865467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641777865467</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,4 +1,6 @@
-@regression @dice
+@regression
+@dice
+@smoke
 Feature: Dice job search85
   As a user, I should be able to search for jobs using a keyword and zipcode, then see results.
 

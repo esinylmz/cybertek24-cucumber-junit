@@ -1,3 +1,5 @@
+@regression
+@smoke
 @calculator
 Feature: Calculator Tests
 
